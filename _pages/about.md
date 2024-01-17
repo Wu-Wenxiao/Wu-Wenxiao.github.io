@@ -28,5 +28,6 @@ Recent News
 
 Recent News
 ======
-- Invited journal reviewer for IEEE Transactions on Neural Networks and Learning Systems: 3 times in 2023 (TNNLS-2023-P-25952.R4, TNNLS-2023-P-27883.R1, TNNLS-2023-P-30977)
+- Invited journal reviewer for IEEE Transactions on Neural Networks and Learning Systems:
+  - 3 times in 2023 (TNNLS-2023-P-25952.R4, TNNLS-2023-P-27883.R1, TNNLS-2023-P-30977)
 
