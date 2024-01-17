@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "China"
+title                    : "Wenxiao Wu"
 title_separator          : "-"
 name                     : &name "Wenxiao Wu"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Wenxiao Wu"
   avatar           : "Psyduck.png"
   bio              : "She walks in beauty."
-  location         : "Location"
+  location         : "China"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=z52QyJUAAAAJ&hl=zh-CN"
