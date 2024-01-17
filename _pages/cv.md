@@ -1,4 +1,4 @@
-![image](https://github.com/Wu-Wenxiao/Wu-Wenxiao.github.io/assets/68221046/9c91d2f2-0ecd-48c4-88ff-942000bb754e)---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 Education
 ======
 * M.S. in Huazhong University of Science and Technology, Sep. 2017 - Jun. 2021
