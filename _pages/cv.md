@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Huazhong University of Science and Technology, Sep. 2021 - Jun. 2024
 * M.S. in Huazhong University of Science and Technology, Sep. 2017 - Jun. 2021
+* B.S. in Huazhong University of Science and Technology, Sep. 2021 - Jun. 2024
 
 Hobbies
 ======
