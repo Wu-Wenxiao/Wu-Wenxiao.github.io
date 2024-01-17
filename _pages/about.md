@@ -26,7 +26,7 @@ Recent News
 - **Sep. 1 2020:** Win the national second prize in the 15th National College Students’ Smart Car Competition
 - **Sep. 1 2020:** Win the national first prize in the 14th National College Students’ Smart Car Competition
 
-Recent News
+Academic Services
 ======
 - Invited journal reviewer for IEEE T-NNLS:
   - 3 times in 2023 (TNNLS-2023-P-25952.R4, TNNLS-2023-P-27883.R1, TNNLS-2023-P-30977)
