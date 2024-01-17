@@ -11,12 +11,6 @@ Education
 ======
 * M.S. in Huazhong University of Science and Technology, Sep. 2017 - Jun. 2021
 * B.S. in Huazhong University of Science and Technology, Sep. 2021 - Jun. 2024
-
-Hobbies
-======
-* Piano amateur of 10th level
-* Swimming
-* Photographing
   
 Honors and Awards (Selected)
 =====
@@ -34,3 +28,9 @@ Skills
 - **Platform:** Linux (managing all servers based on Linux in the laboratory).
 - **Theories:** Machine Learning, Convex Optimization, Pattern Recognition, etc.
 - **Software:** VS Code, Altium Designer, Keil, Vim, Git, etc.
+
+Hobbies
+======
+* Piano amateur of 10th level
+* Swimming
+* Photographing
