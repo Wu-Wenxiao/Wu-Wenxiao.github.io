@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 Education
 ======
 * M.S. in Huazhong University of Science and Technology, Sep. 2017 - Jun. 2021
