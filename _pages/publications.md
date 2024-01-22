@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-author.googleschola = "https://scholar.google.com/citations?user=z52QyJUAAAAJ&hl=zh-CN"
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
+{% if 1 %}
+  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=z52QyJUAAAAJ&hl=zh-CN)}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
