@@ -34,4 +34,6 @@ Academic Services
   - <font size=3>3 times in 2023 (TNNLS-2023-P-25952.R4, TNNLS-2023-P-27883.R1, TNNLS-2023-P-30977)</font>
 - Invited journal reviewer for IEEE T-CYB:
   - <font size=3>1 times in 2024 (CYB-E-2024-02-0334)</font>
+- Invited reviewer for S+SSPR 2024:
+  - <font size=3>1 times in 2024</font>
 
