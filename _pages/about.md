@@ -18,7 +18,9 @@ Research Interests
 
 Recent News
 ======
-- **Aug. 14 2024:** Start an internship in the department of VIS at Baidu (China) Co., Ltd.
+- **Jun. 9 2024:** My team wins the second place in the CVPR VizWiz Zero-Shot Classification Challenge!
+- **Feb. 27 2024:** One Elsevier Pattern Recognition paper ["Query-Centric Distance Modulator for Few-shot Classification"](https://www.sciencedirect.com/science/article/abs/pii/S0031320324001316) is accepted.
+- **Aug. 14 2023:** Start an internship in the department of VIS at Baidu (China) Co., Ltd.
 - **Dec. 1 2023:** Receive the title of "Merit Postgraduate" of Huazhong University of Science and Technology
 - **Jan. 1 2023:** Receive the title of "Excellent Postgraduate Cadre" of Huazhong University of Science and Technology
 - **Dec. 27 2023:** One IEEE T-CSVT paper ["Improving the Generalization of MAML in Few-shot Classification via Bi-level Constraint"](https://ieeexplore.ieee.org/abstract/document/9999670) is accepted.
@@ -30,4 +32,6 @@ Academic Services
 ======
 - Invited journal reviewer for IEEE T-NNLS:
   - <font size=3>3 times in 2023 (TNNLS-2023-P-25952.R4, TNNLS-2023-P-27883.R1, TNNLS-2023-P-30977)</font>
+- Invited journal reviewer for IEEE T-CYB:
+  - <font size=3>1 times in 2024 (CYB-E-2024-02-0334)</font>
 
