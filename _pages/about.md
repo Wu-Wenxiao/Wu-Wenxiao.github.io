@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Wenxiao Wu, a master student in Huazhong University of Science and Technology, supervised by [Prof. Nong Sang](https://scholar.google.com/citations?user=ky_ZowEAAAAJ&hl=zh-CN).
+I am Wenxiao Wu, a Ph.D candidate in Huazhong University of Science and Technology, supervised by [Prof. Nong Sang](https://scholar.google.com/citations?user=ky_ZowEAAAAJ&hl=en) and [Prof. Changxin Gao](https://scholar.google.com/citations?user=4tku-lwAAAAJ&hl=en).
 
 Research Interests
 ======
