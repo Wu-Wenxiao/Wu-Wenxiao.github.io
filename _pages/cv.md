@@ -9,11 +9,12 @@ redirect_from:
 
 Education
 ======
-* M.S. in Huazhong University of Science and Technology, Sep. 2017 - Jun. 2021
-* B.S. in Huazhong University of Science and Technology, Sep. 2021 - Jun. 2024
+* M.S. in Huazhong University of Science and Technology, Sep. 2021 - Jun. 2024
+* B.S. in Huazhong University of Science and Technology, Sep. 2017 - Jun. 2021
   
 Honors and Awards (Selected)
 =====
+- Outstanding Graduate of HUST, 2024
 - Merit Postgraduate of HUST, 2023
 - Excellent Postgraduate Cadre of HUST, 2022
 - Zhixing Scholarship of HUST, 2022
@@ -25,7 +26,7 @@ Honors and Awards (Selected)
 Skills
 ======
 - **Coding:** Python (PyTorch), C, C++, LaTeX.
-- **Platform:** Linux (managing all servers based on Linux in the laboratory).
+- **Platform:** Linux (managing all servers based on Linux in my laboratory).
 - **Theories:** Machine Learning, Convex Optimization, Pattern Recognition, etc.
 - **Software:** VS Code, Altium Designer, Keil, Vim, Git, etc.
 
