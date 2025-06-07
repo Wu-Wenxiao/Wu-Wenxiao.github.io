@@ -13,8 +13,8 @@ I am Wenxiao Wu, a Ph.D candidate in Huazhong University of Science and Technolo
 Research Interests
 ======
 - Few-shot Learning
-- Conformal Inference
-- Federated Learning
+- Conformal Prediction
+- Visual In-Context Learning
 
 Recent News
 ======
