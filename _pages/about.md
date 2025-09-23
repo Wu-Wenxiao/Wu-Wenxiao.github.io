@@ -18,6 +18,7 @@ Research Interests
 
 Recent News
 ======
+- **Sep. 18 2025:** One NeurIPS paper ["Towards Reliable and Holistic Visual In-Context Learning Prompt Selection"] is accepted.
 - **Jun. 9 2024:** My team wins the second place in the CVPR VizWiz Zero-Shot Classification Challenge!
 - **Feb. 27 2024:** One Elsevier Pattern Recognition paper ["Query-Centric Distance Modulator for Few-shot Classification"](https://www.sciencedirect.com/science/article/abs/pii/S0031320324001316) is accepted.
 - **Aug. 14 2023:** Start an internship in the department of VIS at Baidu (China) Co., Ltd.
