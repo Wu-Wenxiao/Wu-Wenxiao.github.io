@@ -18,9 +18,8 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
     <a href="#">[Code]</a>
 </div>
 
-<div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px;">
-  <strong>Bibtex</strong>
-  <pre style="white-space: pre-wrap; word-break: break-all; font-size: 70%; margin-top: 10px; margin-bottom: 0;">
+<strong>Bibtex</strong>
+<pre style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px; font-size: 70%; overflow-x: auto;">
 @article{shao2022improving,
   title={Improving the generalization of MAML in few-shot classification via bi-level constraint},
   author={Shao, Yuanjie and Wu, Wenxiao and You, Xinge and Gao, Changxin and Sang, Nong},
@@ -31,5 +30,4 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
   year={2022},
   publisher={IEEE}
 }
-  </pre>
-</div>
+</pre>
