@@ -18,8 +18,8 @@ citation: ''
     <a href="https://github.com/Wu-Wenxiao/QCDM">[Code]</a>
 </div>
 
-<strong>Bibtex</strong>
-<pre style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px; font-size: 70%; overflow-x: auto;">
+<strong style="display: block; margin-top: 1.5em; margin-bottom: 0.5em;">Bibtex</strong>
+<pre style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px; font-size: 70%; overflow-x: auto; margin-top: 0;">
 @article{wu2024query,
   title={Query-centric distance modulator for few-shot classification},
   author={Wu, Wenxiao and Shao, Yuanjie and Gao, Changxin and Xue, Jing-Hao and Sang, Nong},
