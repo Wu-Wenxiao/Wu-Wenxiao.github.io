@@ -1,8 +1,8 @@
 ---
 title: "Exploring Sample Relationship for Few-Shot Classification"
-information: 'Xingye Chen<sup>&dagger;</sup>, **Wenxiao Wu<sup>&dagger;</sup>**, Li Ma, Xinge You, Changxin Gao, Nong Sang, Yuanjie Shao<sup>*</sup>, "Exploring Sample Relationship for Few-Shot Classification", Pattern Recognition, 2025: 111089.'
+information: 'Xingye Chen<sup>&dagger;</sup>, **Wenxiao Wu**<sup>&dagger;</sup>, Li Ma, Xinge You, Changxin Gao, Nong Sang, Yuanjie Shao<sup>*</sup>, "Exploring Sample Relationship for Few-Shot Classification", Pattern Recognition, 2025: 111089.'
 collection: publications
-permalink: publication/
+permalink: publication/SRE
 excerpt: ''
 date: 2025-03-01
 venue: 'Pattern Recognition'
