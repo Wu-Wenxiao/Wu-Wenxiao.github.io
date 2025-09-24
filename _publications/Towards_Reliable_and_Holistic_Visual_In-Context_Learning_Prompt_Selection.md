@@ -1,5 +1,6 @@
 ---
 title: "Towards Reliable and Holistic Visual In-Context Learning Prompt Selection"
+information: "Wenxiao Wu, Jinghao Xue, Chengming Xu, Xinwei Sun, Chen Liu, Changxin Gao, Nong Sang, Yanwei Fu, "Towards Reliable and Holistic Visual In-Context Learning Prompt Selection", NeurIPS, 2025."
 collection: publications
 permalink: /publication/RH-Partial2Global
 excerpt: ''
@@ -13,8 +14,8 @@ citation: ''
 </p>
 
 <div style="display: flex; align-items: center; gap: 20px; font-size: 90%;">
-    <a href="https://Wu-Wenxiao.github.io/files/Towards_Reliable_and_Holistic_Visual_In_Context_Learning_Prompt_Selection.pdf">Paper</a>
-    <a href="https://github.com/Wu-Wenxiao/RH-Partial2Global">Code</a>
+    <a href="https://Wu-Wenxiao.github.io/files/Towards_Reliable_and_Holistic_Visual_In_Context_Learning_Prompt_Selection.pdf">[Paper]</a>
+    <a href="https://github.com/Wu-Wenxiao/RH-Partial2Global">[Code]</a>
 </div>
 
 <pre><strong>Bibtex</strong>
