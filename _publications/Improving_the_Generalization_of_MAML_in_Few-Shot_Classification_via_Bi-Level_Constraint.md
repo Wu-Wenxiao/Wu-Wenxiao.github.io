@@ -1,5 +1,6 @@
 ---
 title: "Improving the Generalization of MAML in Few-Shot Classification via Bi-Level Constraint"
+information: 'Yuanjie Shao, **Wenxiao Wu**, Xinge You, Changxin Gao, Nong Sang<sup>*</sup>, "Improving the Generalization of MAML in Few-Shot Classification via Bi-Level Constraint", IEEE Transactions on Circuits and Systems for Video Technology, 2022, vol. 33, no. 7, pp. 3284-3295.'
 collection: publications
 permalink: publication/BLC-MAML
 excerpt: ''

@@ -1,9 +1,10 @@
 ---
 title: "Query-Centric Distance Modulator for Few-Shot Classification"
+information: '**Wenxiao Wu**, Yuanjie Shao, Changxin Gao, Jing-Hao Xue, Nong Sang<sup>*</sup>, "Query-Centric Distance Modulator for Few-shot Classification", Pattern Recognition, 2024: 110380.'
 collection: publications
 permalink: /publication/QCDM
 excerpt: ''
-date: 2024-07-14
+date: 2024-07-01
 venue: 'Pattern Recognition'
 paperurl: 'https://Wu-Wenxiao.github.io/files/Query-Centric_Distance_Modulator_for_Few-Shot_Classification.pdf'
 citation: ''
