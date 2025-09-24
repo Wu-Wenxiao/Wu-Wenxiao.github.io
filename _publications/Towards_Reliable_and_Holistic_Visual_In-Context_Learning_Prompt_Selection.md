@@ -18,8 +18,9 @@ citation: ''
     <a href="https://github.com/Wu-Wenxiao/RH-Partial2Global">[Code]</a>
 </div>
 
-<pre><strong>Bibtex</strong>
-<div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px;font-size: 70%">
+<div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px;">
+  <strong>Bibtex</strong>
+  <pre style="white-space: pre-wrap; word-break: break-all; font-size: 70%; margin-top: 10px; margin-bottom: 0;">
 None
+    </pre>
 </div>
-</pre>

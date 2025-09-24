@@ -21,8 +21,9 @@ to perform weighted fusion of the original features and the aggregated features,
     <a href="https://github.com/Chenguoz/SRE">[Code]</a>
 </div>
 
-<pre><strong>Bibtex</strong>
-<div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px;font-size: 70%">
+<div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px;">
+  <strong>Bibtex</strong>
+  <pre style="white-space: pre-wrap; word-break: break-all; font-size: 70%; margin-top: 10px; margin-bottom: 0;">
 @article{chen2025exploring,
   title={Exploring sample relationship for few-shot classification},
   author={Chen, Xingye and Wu, Wenxiao and Ma, Li and You, Xinge and Gao, Changxin and Sang, Nong and Shao, Yuanjie},
@@ -32,5 +33,5 @@ to perform weighted fusion of the original features and the aggregated features,
   year={2025},
   publisher={Elsevier}
 }
+  </pre>
 </div>
-</pre>
