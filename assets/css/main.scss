@@ -39,12 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* --- information 链接的自定义样式 --- */
-.information-link {
-    color: #555;             /* 设置默认颜色为灰色 */
-    text-decoration: none;  /* 默认移除下划线 */
+.archive__item-excerpt .information-link {
+    color: #555;
+    text-decoration: none;
   }
   
-.information-link:hover {
-text-decoration: underline; /* 鼠标悬停时，重新显示下划线 */
+.archive__item-excerpt .information-link:hover {
+text-decoration: underline;
 }
