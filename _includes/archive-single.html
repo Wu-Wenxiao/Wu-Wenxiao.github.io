@@ -34,13 +34,11 @@
       {% endif %}
     </h2>
     {% if post.information %}
-      <p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0.5em;">
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-          {{ post.information | markdownify | remove: "<p>" | remove: "</p>" }}
-        </a>
+      <p class="page__meta" style="font-size: 0.8em; color: #555;">
+        <span style="margin-right: 0.5em;">•</span>{{ post.information }}
       </p>
     {% endif %}
-    
+ 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
