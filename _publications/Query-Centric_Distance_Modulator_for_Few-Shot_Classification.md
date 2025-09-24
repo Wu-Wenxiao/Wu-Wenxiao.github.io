@@ -3,7 +3,7 @@ title: "Query-Centric Distance Modulator for Few-Shot Classification"
 collection: publications
 permalink: /publication/QCDM
 excerpt: ''
-date: 2010-10-01
+date: 2024-07-14
 venue: 'Pattern Recognition'
 paperurl: 'https://Wu-Wenxiao.github.io/files/Query-Centric_Distance_Modulator_for_Few-Shot_Classification.pdf'
 citation: ''
