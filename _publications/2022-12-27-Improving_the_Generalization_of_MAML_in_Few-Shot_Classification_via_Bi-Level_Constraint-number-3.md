@@ -15,7 +15,7 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 [Download paper here](https://Wu-Wenxiao.github.io/files/Improving_the_Generalization_of_MAML_in_Few-Shot_Classification_via_Bi-Level_Constraint.pdf)
 
 <pre><strong>Bibtex</strong>
-<div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px;">
+<div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px;font-size: 70%">
 @article{shao2022improving,
   title={Improving the generalization of MAML in few-shot classification via bi-level constraint},
   author={Shao, Yuanjie and Wu, Wenxiao and You, Xinge and Gao, Changxin and Sang, Nong},
