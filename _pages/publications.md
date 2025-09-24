@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=z52QyJUAAAAJ&hl=zh-CN).
 {% endif %}
 
-<p>&#9841; indicates equal contributions, * indicates corresponding author.</p>
+<p><sup>&dagger;</sup> indicates equal contributions, <sup>*</sup> indicates corresponding author.</p>
 
 {% include base_path %}
 
