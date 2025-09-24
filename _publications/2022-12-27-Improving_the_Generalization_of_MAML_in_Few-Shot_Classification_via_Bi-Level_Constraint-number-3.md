@@ -14,4 +14,17 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 
 [Download paper here](https://Wu-Wenxiao.github.io/files/Improving_the_Generalization_of_MAML_in_Few-Shot_Classification_via_Bi-Level_Constraint.pdf)
 
-Recommended citation: Your Name, You. (2015). "Improving the Generalization of MAML in Few-Shot Classification via Bi-Level Constraint." <i>Journal 1</i>. 1(3).
+<pre><strong>Bibtex</strong>
+<div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px;">
+@article{shao2022improving,
+  title={Improving the generalization of MAML in few-shot classification via bi-level constraint},
+  author={Shao, Yuanjie and Wu, Wenxiao and You, Xinge and Gao, Changxin and Sang, Nong},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={33},
+  number={7},
+  pages={3284--3295},
+  year={2022},
+  publisher={IEEE}
+}
+</div>
+</pre>
