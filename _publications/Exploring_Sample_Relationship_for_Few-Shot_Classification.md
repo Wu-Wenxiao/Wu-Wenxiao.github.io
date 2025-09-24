@@ -21,7 +21,6 @@ to perform weighted fusion of the original features and the aggregated features,
     <a href="https://github.com/Chenguoz/SRE">[Code]</a>
 </div>
 
-
 <strong style="display: block; margin-top: 1.5em; margin-bottom: 0.5em;">Bibtex</strong>
 <pre style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 16px; border-radius: 8px; font-size: 70%; overflow-x: auto; margin-top: 0;">
 @article{chen2025exploring,
