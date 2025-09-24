@@ -1,6 +1,6 @@
 ---
 title: "Towards Reliable and Holistic Visual In-Context Learning Prompt Selection"
-information: 'Wenxiao Wu, Jinghao Xue, Chengming Xu, Xinwei Sun, Chen Liu, Changxin Gao, Nong Sang, Yanwei Fu, "Towards Reliable and Holistic Visual In-Context Learning Prompt Selection", NeurIPS, 2025.'
+information: 'Wenxiao Wu, Jinghao Xue, Chengming Xu<sup>*</sup>, Xinwei Sun, Chen Liu, Changxin Gao, Nong Sang, Yanwei Fu, "Towards Reliable and Holistic Visual In-Context Learning Prompt Selection", NeurIPS, 2025.'
 collection: publications
 permalink: /publication/RH-Partial2Global
 excerpt: ''
