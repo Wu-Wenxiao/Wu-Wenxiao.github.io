@@ -27,8 +27,8 @@
     {% endif %}
 
     {% if post.information %}
-      <p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0.5em; font-size: 0.9em;">
-        <span style="margin-right: 0.4em;">•</span><a href="{{ base_path }}{{ post.url }}" rel="permalink">
+      <p class="archive__item-excerpt" itemprop="description" style="margin-bottom: 0.5em; font-size: 0.9em; padding-left: 1.5em; text-indent: -1.5em;">
+        <span style="margin-right: 0.4em;">•</span><a href="{{ base_path }}{{ post.url }}" rel="permalink" class="information-link">
           {{ post.information | markdownify | remove: "<p>" | remove: "</p>" }}
         </a>
       </p>
